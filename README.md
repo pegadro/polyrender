@@ -59,7 +59,7 @@ Once we have the convex hulls and therefore, the polygons, we proceed to render 
 
 ![](readme_resources/example.gif)
 
-### Instalation
+### Installation
 
 Prerequisites: Have the JRE (Java Runtime Environment) and python3 installed.
 
